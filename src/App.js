@@ -84,7 +84,7 @@ function App() {
             value={input}
             onChange={handleSearch}
           />
-          <i class="fa fa-search" aria-hidden="true" style={{ marginLeft: '-67rem' }}></i>
+          <i class="fa fa-search" aria-hidden="true" style={{ marginLeft: '-65rem' }}></i>
         </div>
       </div>
 
